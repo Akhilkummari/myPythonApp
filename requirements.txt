@@ -1,0 +1,7 @@
+# Python dependencies for myPythonApp
+# Add your project dependencies here
+# Example format:
+# package_name==version
+# or
+# package_name>=version
+
